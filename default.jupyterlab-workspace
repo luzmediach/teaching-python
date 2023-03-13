@@ -14,7 +14,7 @@
               "type": "tab-area",
               "currentIndex": 0,
               "widgets": [
-                "notebook:lessons/l01_schlaufen.ipynb"
+                "notebook:l01_schlaufen.ipynb"
               ]
             },
             {
@@ -29,7 +29,7 @@
                   "type": "tab-area",
                   "currentIndex": 0,
                   "widgets": [
-                    "cloned-outputs:lessons/l01_schlaufen.ipynb:2"
+                    "cloned-outputs:l01_schlaufen.ipynb:2"
                   ]
                 },
                 {
@@ -43,7 +43,7 @@
             }
           ]
         },
-        "current": "notebook:lessons/l01_schlaufen.ipynb"
+        "current": "notebook:l01_schlaufen.ipynb"
       },
       "down": {
         "size": 0,
@@ -75,15 +75,15 @@
     "file-browser-filebrowser:cwd": {
       "path": "lessons"
     },
-    "notebook:lessons/l01_schlaufen.ipynb": {
+    "notebook:l01_schlaufen.ipynb": {
       "data": {
-        "path": "lessons/l01_schlaufen.ipynb",
+        "path": "l01_schlaufen.ipynb",
         "factory": "Notebook"
       }
     },
-    "cloned-outputs:lessons/l01_schlaufen.ipynb:2": {
+    "cloned-outputs:l01_schlaufen.ipynb:2": {
       "data": {
-        "path": "lessons/l01_schlaufen.ipynb",
+        "path": "l01_schlaufen.ipynb",
         "index": 2
       }
     },
